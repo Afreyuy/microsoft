@@ -1,24 +1,24 @@
 ; 分号开头是注释说明，用来了解补丁的类型(例如：是月度汇总补丁还是安全性更新补丁)，文档允许有空行
 
-; 2022-12 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows8.1-kb5021294-x86_89aa7cd188816d0867153d73b45755d23c1ce343.msu
+; 2023-01 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022352-x86_4a3deb483a041881a7d5250d01a184f458e99325.msu
 
 
-; 2022-12 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows8.1-kb5021294-x64_59371f615ea43f5b202a6688d522e0cdff060ed2.msu
+; 2023-01 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022352-x64_d625561eda52f6d1f768dc444b817af0650ce81f.msu
 
 
-; 2022-12 适用于 Windows 8.1 基于 x86 系统的仅安全更新
-https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/12/windows8.1-kb5021296-x86_9cb5aeb0cbfeb4911f92589d948b31bee0c2e514.msu
+; 2023-01 适用于 Windows 8.1 基于 x86 系统的仅安全更新
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022346-x86_3fec2f6ed543336f130721bfad5190d9bc707da7.msu
 
 
-; 2022-12 适用于 Windows 8.1 基于 x64 系统的仅安全更新
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows8.1-kb5021296-x64_fcc1368eaa82a2ee3d89df254a00d2e25821b121.msu
+; 2023-01 适用于 Windows 8.1 基于 x64 系统的仅安全更新
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022346-x64_ff9f60e266918c364a805db5d49cf763540114ba.msu
 
 
-; 2022-12 Windows 10 1809 基于 x86 系统的累计更新
-https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/12/windows10.0-kb5021237-x86_e9ee9fe2da520d493d62c4ab37265738bcad8716.msu
+; 2023-01 Windows 10 1809 基于 x86 系统的累计更新
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows10.0-kb5022286-x86_aa8ad7da8a951e027434e8c5e60c2772d8bc3ad1.msu
 
 
-; 2022-12 Windows 10 1809 基于 x64 系统的累计更新
-https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/12/windows10.0-kb5021237-x64_207fe3b1229757c0a628f2c5c54c8d3068f62d8d.msu
+; 2023-01 Windows 10 1809 基于 x64 系统的累计更新
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows10.0-kb5022286-x64_6e84985d215be67ce1395cb2627b5ee68cf4dcb6.msu
