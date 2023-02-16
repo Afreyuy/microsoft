@@ -16,9 +16,9 @@ https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2
 https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022346-x64_ff9f60e266918c364a805db5d49cf763540114ba.msu
 
 
-; 2023-01 Windows 10 1809 基于 x86 系统的累计更新
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows10.0-kb5022286-x86_aa8ad7da8a951e027434e8c5e60c2772d8bc3ad1.msu
+; 2023-02 Windows 10 1809 基于 x86 系统的累计更新
+https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/02/windows10.0-kb5022840-x86_e78276ec3d34718b4eec5fed3f4e91a5e4980420.msu
 
 
-; 2023-01 Windows 10 1809 基于 x64 系统的累计更新
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows10.0-kb5022286-x64_6e84985d215be67ce1395cb2627b5ee68cf4dcb6.msu
+; 2023-02 Windows 10 1809 基于 x64 系统的累计更新
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/02/windows10.0-kb5022840-x64_d7bcae1d048b189823f475e979aba17217cb2892.msu
